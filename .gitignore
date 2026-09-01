@@ -1,0 +1,39 @@
+# Android / Gradle
+TingshuExporter/.gradle/
+TingshuExporter/build/
+TingshuExporter/app/build/
+TingshuExporter/local.properties
+*.iml
+.idea/
+
+# Downloaded tools and temp artifacts
+tools/ffmpeg/
+_ffmpeg.zip
+_shizuku.apk
+_probe_sample.bin
+_probe.py
+_verify/
+_test_out/
+jump3r.jar
+jump3r-sources.jar
+jaad.jar
+/jump3r-android-1.0.5.jar
+
+# Export results and compiled apps（只留本机）
+TingshuExport/
+*.apk
+*.aab
+**/build/
+
+# Python
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# 本机给 AI 的完整说明，不推送到 GitHub
+README.local.md
+
+# local Chinese notes / version history — not on GitHub
+README.LOCAL.md
+版本记录.md

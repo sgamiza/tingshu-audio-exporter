@@ -1,0 +1,4 @@
+-keep class de.sciss.jump3r.** { *; }
+-keep class com.tingshuexport.downloader.UserService { *; }
+-keep class com.tingshuexport.downloader.IUserService { *; }
+-keep class com.tingshuexport.downloader.IUserService$Stub { *; }

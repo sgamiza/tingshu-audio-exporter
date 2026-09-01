@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">阿米听书导出</string>
+
+    <string name="subtitle_idle">懒人听书缓存 → MP3</string>
+    <string name="status_checking">正在检测环境…</string>
+    <string name="toggle_toolbar">折叠工具栏</string>
+
+    <string name="scan_via_shizuku">① Shizuku 扫描</string>
+    <string name="scan_direct">② 完全文件权限</string>
+    <string name="scan_custom_folder">③ 选择已复制的目录（中转方案）</string>
+
+    <string name="search_hint">搜索书名或章节…</string>
+    <string name="clear_search">清空搜索</string>
+    <string name="expand_all">展开</string>
+    <string name="collapse_all">折叠</string>
+    <string name="select_all">全选</string>
+    <string name="deselect_all">全不选</string>
+
+    <string name="export">导出</string>
+    <string name="export_selected">导出选中音频</string>
+
+    <string name="output_format">输出格式</string>
+    <string name="format_mp3">转换为 MP3</string>
+    <string name="format_mp3_hint">通用兼容，任何设备都能播。需要重新编码，耗时较长。</string>
+    <string name="format_m4a">直接导出 M4A（不转码）</string>
+    <string name="format_m4a_hint">源文件本来就是 M4A/AAC，改名即可。无损、秒级完成，绝大多数播放器和车机都支持。</string>
+
+    <string name="encode_speed">编码质量 / 速度</string>
+    <string name="bitrate">MP3 码率</string>
+    <string name="parallelism">同时转码文件数</string>
+
+    <string name="use_book_name">用书名命名输出文件夹</string>
+    <string name="delete_source">导出成功后删除懒人听书里的源文件（释放空间，APP 内将无法再播放）</string>
+
+    <string name="cancel">取消</string>
+    <string name="start_export">开始导出</string>
+    <string name="stop">停止</string>
+
+    <string name="notification_title">正在导出音频</string>
+    <string name="notification_channel_name">导出进度</string>
+    <string name="notification_channel_desc">显示音频导出与转码进度</string>
+    <string name="progress_preparing">准备中…</string>
+</resources>

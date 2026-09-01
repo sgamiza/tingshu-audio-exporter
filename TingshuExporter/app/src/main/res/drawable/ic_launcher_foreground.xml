@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- 耳机造型：代表有声书 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,28c-11.6,0 -21,9.4 -21,21v9h-3c-2.2,0 -4,1.8 -4,4v10c0,2.2 1.8,4 4,4h7V49c0,-9.4 7.6,-17 17,-17s17,7.6 17,17v27h7c2.2,0 4,-1.8 4,-4V62c0,-2.2 -1.8,-4 -4,-4h-3v-9C75,37.4 65.6,28 54,28z" />
+    <!-- 向下箭头：代表导出 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M50,58h8v14h7l-11,12l-11,-12h7z" />
+</vector>
